@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "motiondetectpro",
+  "private_key_id": "f312c68b85826b0e5dd5340d3fc9837a194e4236",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCp8cY5ur4KsoDp\nIdFNIDZ7DgZLjFiKXoaxlxHa2XjD915K+UCE5pZIJGHrwTQJf0LJizVjzGngMlyN\nD3V+VUkE42hXZXXQfgzxBxytmvxMN4CQ6iIvk/ZxgTNvFqN+1HxC2awSdbV899Xt\nGLHvbvaLyA1Y0bg2VxZpe66xwv8hQSOAzuzjNsIdpIARIzX62YcETVkJOcfyjKBq\nXXcb4Lg8bhSpc/2J80/p5X8B5IbmcZbB7eGjC6Idt5x8ZOgpZ9JLVCZwSxC7qQom\nnABrwCWVy7snbSQQiTgcCJrLgZEvon9YMGIKYuxEETE4waPLBwuqACTHjuG6ZvUY\nDs/InhF1AgMBAAECggEAKcS6JxsuNTvdMi91HUMjEMiIJI5Yfp2v9jr+kO7tXyDP\nxJaRVHjGC/IhPQvtyb3FAPsdgqtNhGRsWeEoTAYTHcf0r7JIrBcnACBy3Hpgsyzb\nBQL+pvnzUr9iEFYclgIMjnOodpsGobHaGt18cjAwGXfwS9mzsGtkH0XeUGNwSFAu\n7EYLtxt5coDKoz3Nl1m91ra8MfFODcDWucNu5/lIj8Mc/2zRzbCS3tb7sOLaseND\nNZEQ9grf6F4SBmR312h61rMXg+5E+wh5Q9b/DwEh0Bbbtihq4SNXckGug18UAjQh\ni7wcncsLVourNooRmP+1cxNKn40m46IX4Ial1D8GAQKBgQDfznUPO2KIYBBVJjlU\nTosOXgCfxwxIIdVHbX/+4wngPHfpxI5UNMNnYy3PJIwdy28fk8sEUmIs5ZtknT1G\nKxRgPS00I8VXox/3vIorFQduSiCEYw+VbsrpuNkC5nVmGYiKmEGvxn+Sw3YgHfdI\n7bIxnOD4PNtLnRMtTVYNlDd5AQKBgQDCY+D3YFaazP/VgcfpleA7oNjfGvoj8ZG2\nel0GoHGw2J+De3jso/Ci7mQs8kKWgCmmE2xas/EIphVs9KR+f3gZbITrbsSI0L0R\n3nWg5CDgBsDKycyD2vahY2HuShZTc1xOZ89Zbnq269hY0cnWE18Yg9klM55CNbEc\n+kYZa5/EdQKBgQDXHmoT/v+hl7x7K+d06p3sbFxrN3bNqn+HTW/2/iGTAGw+LSil\nNaYQrRrt/PIU/WJNVtCP0eP9xaDMX/ryhBvsuUDG2g8oQmpKxFWGPYtL7kI9Hb5v\n4vN1HbCxgfSb87Tzio+wtboPxoK3MjZrSdW6rFDtKgmbL1qsc6ZgHPQJAQKBgCAm\nUrO3LDuoAfv23fBlCFP0U0n69Tnynw3WCQKqkIMWILOnPSWuK4NW+Bxy6M5pXfoI\nplgOAKRUi6CciYQeYueZihZCGKEkHNESwNOeR02l8EbZv0hjc3zXqf+2IyEkKDUT\neDirTAJq2To/YClWxNiSHdzIP7lllehcADH+GcttAoGBANkULzKzqdjv1eSqP9cr\nw7sXpqUjGWmc2Z/2Rq8tI6s3ELGBTT2Zwf0a6836HeaKaLUXdf0wQWIWkhVGvVKs\nF0bb2KprIKE2bjZ8/SToKs7Lt/3FgrlNTx0ny989rgpkVL5HznokHMZZm9+dWvs/\nWyhX/hrnyKZ9TdFy1ADLm9YX\n-----END PRIVATE KEY-----\n",
+  "client_email": "motiondetectpro@appspot.gserviceaccount.com",
+  "client_id": "113901522712468918418",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/motiondetectpro%40appspot.gserviceaccount.com"
+}
